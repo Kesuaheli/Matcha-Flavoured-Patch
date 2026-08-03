@@ -1,3 +1,7 @@
+# Players start with Hearts score of 0, which means they would be in-debt 10 hearts before they could earn new ones, so if they are below the minimum we set it to the minimum
+execute as @a unless score @s Hearts <= minimum_hearts Hearts run scoreboard players operation @s Hearts = minimum_hearts Hearts
+
+
 #Revoke root adv, so that on_first_load functions run
 advancement revoke @s only matcha:tutorial/root
 
