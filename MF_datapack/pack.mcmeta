@@ -310,9 +310,6 @@
 			"path": "recipe/copper_trapdoor.json"
 		},{
 			"namespace": "minecraft",
-			"path": "recipe/redstone.json"
-		},{
-			"namespace": "minecraft",
 			"path": "recipe/repair_item.json"
 		},{
 			"namespace": "minecraft",
