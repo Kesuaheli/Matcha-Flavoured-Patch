@@ -4,7 +4,6 @@ function matcha:mechanic/warding_stone/warding_stone
 function matcha:mechanic/spawn_mechanic/ticking
 function matcha:mechanic/anvil_xp/remove_xp
 function matcha:mechanic/heart_container/detect_death
-function matcha:environmental/nether_water
 function matcha:mechanic/cake_eaten
 function matcha:environmental/check_freezing_water_conditions
 function matcha:particle/item_particles
