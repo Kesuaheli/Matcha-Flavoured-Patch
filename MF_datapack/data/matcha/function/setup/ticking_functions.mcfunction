@@ -10,5 +10,4 @@ function matcha:environmental/check_freezing_water_conditions
 function matcha:particle/item_particles
 function matcha:particle/riding_boat
 function matcha:stopwatches
-function matcha:environmental/village_eerie_sound
 function matcha:particle/beacon_kindling
