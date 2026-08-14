@@ -1,0 +1,18 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"slots": {
+			"armor.body": {
+				"predicates": {
+					"minecraft:enchantments": [
+						{
+							"enchantments": "main:freezing_protection",
+							"levels": 3
+						}
+					]
+				}
+			}
+		}
+	}
+}
