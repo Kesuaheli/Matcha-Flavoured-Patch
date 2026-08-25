@@ -34,6 +34,9 @@ scoreboard players add end_age Hearts 0
 scoreboard players set minimum_normal_hearts Hearts 12
 scoreboard players set minimum_hard_hearts Hearts 6
 scoreboard players set maximum_hearts Hearts 60
+scoreboard players set minimum_hearts Hearts 20
+#This is a potential mechanic, but it doesn't "feel" good, so Im reconsidering
+scoreboard players set maximum_hard_hearts Hearts 40
 
 # players' sleepTimer data value, and several other variables
 # related to sleeping stored in fake players
